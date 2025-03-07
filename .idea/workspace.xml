@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86fefdcb-7354-4e22-9052-2e9d0c9c2d0f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/TipoVariavel.py" beforeDir="false" afterPath="$PROJECT_DIR$/TipoVariavel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +21,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -69,7 +72,7 @@
       <workItem from="1741282870674" duration="202000" />
       <workItem from="1741283076348" duration="23000" />
       <workItem from="1741283100497" duration="3766000" />
-      <workItem from="1741308467783" duration="612000" />
+      <workItem from="1741308467783" duration="1562000" />
     </task>
     <servers />
   </component>
